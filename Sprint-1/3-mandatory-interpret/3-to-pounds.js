@@ -24,7 +24,7 @@ console.log(`£${pounds}.${pence}`);
 // Try and describe the purpose / rationale behind each step
 
 // To begin, we can start with
-// 1. const penceString = "399p": initialise a string variable with the value "399p"
+// 1. const penceString = "399p": initialize a string variable with the value "399p"
 
 // 3. const penceStringWithoutTrailingP = penceString.substring(0, penceString.length -1); 
 // cleaning the trailing P character. it uses the string´s length minus 1 as the end index for substring(), this leave only the numeric value while drop the last character.
