@@ -9,3 +9,4 @@ test("should return 11 for Ace of Spades", () => {
 // Case 3: Handle Face Cards (J, Q, K):
 // Case 4: Handle Ace (A):
 // Case 5: Handle Invalid Cards:
+
