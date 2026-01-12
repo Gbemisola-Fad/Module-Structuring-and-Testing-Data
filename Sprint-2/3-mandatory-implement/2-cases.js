@@ -9,7 +9,8 @@
 // When we call this function with the input string
 // it returns the string in UPPER_SNAKE_CASE, so "HELLO_THERE"
 
-// Another example: "lord of the rings" should be "LORD_OF_THE_RINGS"
+// Another example: "lord of the rings" should be "LORD_OF_TH
+// E_RINGS"
 
 // You will need to come up with an appropriate name for the function
 // Use the MDN string documentation to help you find a solution

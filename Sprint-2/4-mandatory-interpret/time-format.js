@@ -19,6 +19,7 @@ function formatTimeDisplay(seconds) {
 // a) When formatTimeDisplay is called how many times will pad be called?
 // =============> write your answer here
 
+
 // Call formatTimeDisplay with an input of 61, now answer the following:
 
 // b) What is the value assigned to num when pad is called for the first time?
