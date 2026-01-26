@@ -50,3 +50,4 @@ const fiveofHearts = getCardValue("5♥");
 // When the function is called with such a card,
 // Then it should throw an error indicating "Invalid card rank."
 
+
