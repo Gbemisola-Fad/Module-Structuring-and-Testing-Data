@@ -52,3 +52,4 @@ const equalFraction = isProperFraction(3, 3);
 // Stretch:
 // What other scenarios could you test for?
 
+
